@@ -5,6 +5,9 @@
 <p>:sunglasses: I’m looking to collaborate and build awesome projects.</p>
 <p>:speech_balloon: Ask me anything, or let's just build and play with code.</p>
 <p>:video_game: Fun fact: I love gaming, movies, and reading.</p>
+
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 ## 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/obsu.kebede)[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&logoWidth=30)](https://www.instagram.com/obsu971/)
